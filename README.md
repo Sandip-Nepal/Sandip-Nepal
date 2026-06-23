@@ -1,4 +1,5 @@
-# 💫 About Me:<br>Senior Software Engineer / GenAI Engineer with 9+ years of experience building scalable enterprise applications, AI-powered solutions, and cloud-native microservices.<br><br>I specialize in designing and developing intelligent systems using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, Multi-Agent Systems, and Cloud Technologies. My experience spans Java, Python, Spring Boot, FastAPI, Azure, AWS, and modern AI frameworks such as LangChain, LangGraph, Semantic Kernel, and MCP.
+# 💫 About Me:
+Senior Software Engineer / GenAI Engineer with 9+ years of experience building scalable enterprise applications, AI-powered solutions, and cloud-native microservices.<br><br>I specialize in designing and developing intelligent systems using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, Multi-Agent Systems, and Cloud Technologies. My experience spans Java, Python, Spring Boot, FastAPI, Azure, AWS, and modern AI frameworks such as LangChain, LangGraph, Semantic Kernel, and MCP
 
 
 ## 🌐 Socials:
@@ -13,6 +14,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sandip-Nepal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sandip-Nepal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Sandip-Nepal&icon=0&color=0)](https://visitcount.itsvg.in)
